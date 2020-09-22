@@ -11,6 +11,12 @@ An existing directory can be converted to a git repository by using the followin
 git init
 ```
 
+## Clone
+Clone if the local copy of a remote repository. A developer can create a clone of a repository in his local machine to analyze, develop and test the code
+
+```
+git clone
+```
 
 ## Branch
 A branch helps to separate a specific set of changes from others. Developers can create a branch to keep track of a particular feature that is being added to the application. For example an ‘authentication’ branch can be created to keep track of all the changes made to implement a user registration and login feature in a web application
