@@ -101,3 +101,4 @@ It does not show any data of the committed project history.
 ```
 git status
 ```
+![](Images/statuspng.png)
