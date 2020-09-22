@@ -78,3 +78,4 @@ git remote rm destination
 
 $ git remote -v
 ```
+![](Images/REMOTE%20REMOVE.PNG)
