@@ -1,11 +1,11 @@
-# IS601-Mini-Project-1-Trial
+# Team-Project-1-Git-Collaboration
 
 ## Group Members
 
 **Team Member**| **Role**
 ------------ | -------------
-Sahilpreet Singh | Team Leader
-Jeril Jose | Developer
+Jeril Jose | Team Leader
+Sahilpreet Singh | Collaborator
 
 
 # Topics
