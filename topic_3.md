@@ -89,3 +89,4 @@ Example:
 ```
 git remote show upstream
 ```
+![](Images/remoteshow.png)
