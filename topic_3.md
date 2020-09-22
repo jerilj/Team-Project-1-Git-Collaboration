@@ -79,3 +79,13 @@ git remote rm destination
 $ git remote -v
 ```
 ![](Images/REMOTE%20REMOVE.png)
+
+Remote Show: The show subcommand in git remote  gives detailed output on the configuration of a remote. 
+
+This output will contain a list of branches associated with the remote and also the endpoints attached for fetching and pushing.
+
+Example:
+
+```
+git remote show upstream
+```
