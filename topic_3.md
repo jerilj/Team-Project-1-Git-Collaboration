@@ -18,6 +18,9 @@ Clone if the local copy of a remote repository. A developer can create a clone o
 git clone
 ```
 
+## Fork
+A fork is the copy of a remote repository stored in github or a git repository hosting service. The difference between clone and fork is that a cloning repository will create a copy in the local machine while forking a repository will create a copy in a git hosting service like github.
+
 ## Branch
 A branch helps to separate a specific set of changes from others. Developers can create a branch to keep track of a particular feature that is being added to the application. For example an ‘authentication’ branch can be created to keep track of all the changes made to implement a user registration and login feature in a web application
 
