@@ -13,6 +13,22 @@ Git branch newBranch
 Git checkout -b newBranch
 ```
 
+## Commit
+A commit is the snapshot of the state of files. A developer should commit his code to the appropriate branch to make sure it is tracked. 
+		
+A commit can be made using the following commands
+
+```
+Git add .
+
+Git commit
+
+Git commit -a
+
+Git commit -m
+
+Git commit -am
+```
 
 ## Merge
 Merging  is Git's way of putting together a united history again. The git merge command allows you to take independent lines of development made by a git branch and merge it into a single branch.	
