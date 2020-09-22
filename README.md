@@ -1,5 +1,9 @@
 # Team-Project-1-Git-Collaboration
 
+<p align="center">
+<img src="Images/readme.png"/>
+</p>
+
 ## Group Members
 
 **Team Member**| **Role**
