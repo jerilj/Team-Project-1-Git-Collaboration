@@ -2,6 +2,10 @@
 
 # GitFlow Workflow 
 
+<p align="center">
+<img src="Images/gitflow.png"/>
+</p>
+
 Git is a version control system that helps developers to keep track of code changes. Development team uses git in different ways in their projects. Two of the popular branching models using git are GitFlow and Github Flow. GitFlow was introduced by Vicent Driessen in 2010. 
 
 ## Development
