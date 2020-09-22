@@ -14,3 +14,10 @@ In order to solve this issue all the developers in the project had to emulate th
 
 ## Continuous Integration
 When multiple developers work on a project, it is possible that more than one developer make changes to the same files. This can lead to conflicts and errors if not resolved properly. In order to solve this problem developers are encouraged to commit their changes and integrate it to the remote repository more often. This continuous integration will help to make sure that the central repository is as up-to-date as possible. 
+
+
+## Automated Testing
+Whenever a new commit is merged with the remote repository, it should be tested to make sure that the new changes are not breaking existing code. Since it is impossible to manually test all the scenarios automated testing must be used to ensure the quality of the software. Continuous integration tools like Jenkins and automated testing tools like Selenium can be used along with git to make sure all new integrations are tested right away to minimize the bugs. In order to use automated testing with continuous integration, the developers and testers should come up with good test cases that test all the scenarios. 
+
+
+[Back To Topic List](README.md)
