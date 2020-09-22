@@ -102,3 +102,9 @@ It does not show any data of the committed project history.
 git status
 ```
 ![](Images/statuspng.png)
+
+## Master Branch
+ 
+In Git, "master" is a naming convention for a branch. After cloning a project from a remote server,
+
+the resulting local repository has a single local branch: the so-called "master" branch. This means that "master" can be seen as a repository's "default" branch.
