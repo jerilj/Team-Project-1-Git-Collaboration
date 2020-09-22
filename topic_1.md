@@ -11,3 +11,6 @@ Developing large and complex software requires collaboration of multiple develop
 A version control system like git has a centralized repository. A developer usually creates a copy of this repository in his local machine to do the development. In large projects, it is impossible for every developer to have a local machine with the exact same system configurations and dependencies required to run the code from the repository. 
 
 In order to solve this issue all the developers in the project had to emulate the same system configurations. Virtual machines were a popular choice for this until the introduction of Docker. Docker made it possible to emulate multiple linux environments on a machine by using less resources compared to virtual machines. A developer will create a docker container with the configuration specified in the project repository. The code will be developed and tested in that container. 
+
+## Continuous Integration
+When multiple developers work on a project, it is possible that more than one developer make changes to the same files. This can lead to conflicts and errors if not resolved properly. In order to solve this problem developers are encouraged to commit their changes and integrate it to the remote repository more often. This continuous integration will help to make sure that the central repository is as up-to-date as possible. 
