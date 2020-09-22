@@ -35,3 +35,4 @@ Before you push from local to the remote repository, you must make sure that all
 ```
  git push <repo name> <branch name>
 ```
+![](Images/PUSH.PNG)
