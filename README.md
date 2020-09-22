@@ -21,3 +21,10 @@ The technological innovations in computer hardware and software changed the way 
 Git is a version control system that helps developers to keep track of code changes. Development team uses git in different ways in their projects. Two of the popular branching models using git are GitFlow and Github Flow. GitFlow was introduced by Vicent Driessen in 2010. 
 
 [Read More](topic_2.md)
+
+
+## Git commands and terminology:
+
+After installation, a user can use git from the command line. Click 'Read More' link below to see a list of Git commands and terminologies 
+
+[Read More](topic_3.md)
