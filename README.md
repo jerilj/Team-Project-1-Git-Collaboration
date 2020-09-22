@@ -28,3 +28,9 @@ Git is a version control system that helps developers to keep track of code chan
 After installation, a user can use git from the command line. Click 'Read More' link below to see a list of Git commands and terminologies 
 
 [Read More](topic_3.md)
+
+# Sources
+
+https://datasift.github.io/gitflow/IntroducingGitFlow.html
+
+https://git-scm.com/docs
