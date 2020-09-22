@@ -9,3 +9,9 @@ In GitFlow methodology, the git repository will have a develop branch that is br
 
 ## Releases 
 A release branch will be created from the develop branch. The code will be tested in the release branch. A bug found during the testing phase of a feature branch will be fixed in the release branch itself. After the release, the release branch will be merged with the master branch and develop branch. 
+
+
+## Hotfixes
+If there is an emergency hotfix required after deployment, it will be done on a  hotfix branch  created from the master branch. The hotfixes branch will be merged to both the master and develop branches to keep them in sync. 
+
+[Back To Topic List](README.md)
