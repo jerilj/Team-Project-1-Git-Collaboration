@@ -13,3 +13,15 @@ We have a new branch feature that is based off the master branch. We now want to
 Using this command we have a new branch feature that is based off the master branch. We now want to merge this feature branch into master.
 
 ![](Images/IMG2.png)
+
+## Checkout
+
+The git checkout command lets you navigate between the branches created by git branch. 
+
+```	
+ git checkout -b <branchname>  
+
+git checkout -b <branchname>  
+
+git checkout <remotebranch> origin/<remotebranch> 
+```
