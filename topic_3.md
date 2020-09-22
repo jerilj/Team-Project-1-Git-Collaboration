@@ -44,3 +44,4 @@ Git Pull allows the other to view the changes you have made to the repository th
 ```
 git pull 'remote_name' 'branch_name'
 ```
+![](Images/PULL.PNG)
