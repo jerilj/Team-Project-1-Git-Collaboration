@@ -90,3 +90,14 @@ Example:
 git remote show upstream
 ```
 ![](Images/remoteshow.png)
+
+## Status:   
+The git status command displays the state of the working directory and the staging area. 
+
+It lets you see the changes that are stagged and the files that are not tracked by git. 
+
+It does not show any data of the committed project history.
+
+```
+git status
+```
