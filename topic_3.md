@@ -2,6 +2,25 @@
 
 # Git commands and terminology:
 
+## Repository
+A repository is the location where the project files are stored. A git repository will help to keep track of the changes made to these files
+
+An existing directory can be converted to a git repository by using the following command
+
+```
+git init
+```
+
+## Clone
+Clone if the local copy of a remote repository. A developer can create a clone of a repository in his local machine to analyze, develop and test the code
+
+```
+git clone
+```
+
+## Fork
+A fork is the copy of a remote repository stored in github or a git repository hosting service. The difference between clone and fork is that a cloning repository will create a copy in the local machine while forking a repository will create a copy in a git hosting service like github.
+
 ## Branch
 A branch helps to separate a specific set of changes from others. Developers can create a branch to keep track of a particular feature that is being added to the application. For example an ‘authentication’ branch can be created to keep track of all the changes made to implement a user registration and login feature in a web application
 
