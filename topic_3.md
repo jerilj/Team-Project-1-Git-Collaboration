@@ -2,6 +2,18 @@
 
 # Git commands and terminology:
 
+## Branch
+A branch helps to separate a specific set of changes from others. Developers can create a branch to keep track of a particular feature that is being added to the application. For example an ‘authentication’ branch can be created to keep track of all the changes made to implement a user registration and login feature in a web application
+
+A new branch can be created using the following commands
+
+```
+Git branch newBranch
+
+Git checkout -b newBranch
+```
+
+
 ## Merge
 Merging  is Git's way of putting together a united history again. The git merge command allows you to take independent lines of development made by a git branch and merge it into a single branch.	
 
