@@ -11,6 +11,7 @@
 Jeril Jose | Team Leader
 Sahilpreet Singh | Collaborator
 
+[View CHANGELOG](CHANGELOG.md)
 
 # Topics
 
